@@ -1,0 +1,31 @@
+{
+    "Jogador": [
+        {
+            "PutRequest": {
+                "Item": { 
+		 "Nome": {"S": "Lebron James"},
+ 		 "Posicao": {"S": "forward"},
+  		 "Idade" : {"S": "38"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+   		 "Nome": {"S": "Stephen Curry"},
+ 		 "Posicao": {"S": "Point guard"},
+  		 "Idade" : {"S": "35"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+		 "Nome": {"S": "Giannis Antetokounmpo"},
+ 		 "Posicao": {"S": "forward"},
+  		 "Idade" : {"S": "28"}
+                }
+            }
+        }
+      ]
+}
